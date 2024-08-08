@@ -19,3 +19,4 @@ class Detail_page extends StatelessWidget {
     );
   }
 }
+//https://github.com/gehlotharsh21/netflix.git
